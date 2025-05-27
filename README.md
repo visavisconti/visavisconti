@@ -1,4 +1,4 @@
-<p align="left">📚 I'm interested in: neuroimaging, social cognition, discrete differential geometry, topology and computer graphics</p>
+<p align="left">📚 I'm interested in: neuroimaging, social cognition, discrete differential geometry, topology, computer graphics and audio-processing</p>
 
 ###
 
