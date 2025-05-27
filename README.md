@@ -72,6 +72,6 @@
 
 ###
 
-<p align="left">⚡ Tech@Leibniz-Centre General Linguistics (ZAS)</p>
+<p align="left">⚡ Applicationengineering and Networkadministration@Leibniz-Centre General Linguistics (ZAS) since 2018</p>
 
 ###
