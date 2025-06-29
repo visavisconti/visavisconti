@@ -1,4 +1,4 @@
-<p align="left">📚 I'm interested in: neuroimaging, social cognition, discrete differential geometry, topology, computer graphics and audio-processing</p>
+<p align="left">📚 Enthusiastic about the convergence of audio and geometric processing, discrete differential geometry, topology, social cognition, and neuroimaging.</p>
 
 ###
 
@@ -72,6 +72,12 @@
 
 ###
 
-<p align="left">⚡ Applicationengineering and Networkadministration@Leibniz-Centre General Linguistics (ZAS) since 2018</p>
+<p align="left">⚡ Application Engineering, Network Administration, and Information Security
+
+Leibniz Centre for General Linguistics (ZAS)
+
+Since 2018
+
+Responsible for the development and maintenance of applications used in scientific research, along with network administration and information security.</p>
 
 ###
