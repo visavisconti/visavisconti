@@ -1,4 +1,4 @@
-<p align="left">📚 Enthusiastic about the convergence of audio and geometric processing, discrete differential geometry, topology, social cognition, and neuroimaging.</p>
+<p align="left">📚 i like audio and geometric processing, multimodal deep learning, discrete differential geometry, topology, social cognition, human behaviour modeling, and neuroimaging.</p>
 
 ###
 
