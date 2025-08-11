@@ -72,7 +72,7 @@
 
 ###
 
-<p align="left">⚡ Application Engineering, Network Administration, and Information Security being responsible for the development and maintenance of applications used in scientific research
+<p align="left">⚡ Application Engineering, Network Administration, and Information Security. Being responsible for the development and maintenance of applications used in scientific research
 
 Leibniz Centre for General Linguistics (ZAS)
 
